@@ -1,0 +1,7 @@
+{
+    "scripts": {
+        "my-codegen": "echo 'bar' > my-codegen.txt",
+        "my-test": "cat my-codegen.txt > my-output.txt"
+    },
+    "packageManager": "yarn@4.1.1"
+}
